@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonRageFlight", "DragonRageFlight.csproj", "{4571FA73-8494-46E5-A51D-DD74C20A4391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{367B1370-B873-49C2-85F4-57626D0F8468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4571FA73-8494-46E5-A51D-DD74C20A4391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4571FA73-8494-46E5-A51D-DD74C20A4391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4571FA73-8494-46E5-A51D-DD74C20A4391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4571FA73-8494-46E5-A51D-DD74C20A4391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367B1370-B873-49C2-85F4-57626D0F8468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367B1370-B873-49C2-85F4-57626D0F8468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367B1370-B873-49C2-85F4-57626D0F8468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367B1370-B873-49C2-85F4-57626D0F8468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14232E86-1559-4280-ADEA-AD7C19AA2F92}
+	EndGlobalSection
+EndGlobal
